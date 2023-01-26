@@ -48,6 +48,7 @@
               {{ with $data.target }}{{ $target = . }}{{ end }}
               {{ with $data.title }}{{ $title = . }}{{ end }}
             {{ end }}
+            {{ $type = partial "func-class-lookup.html" $type }}
             <a
               class="link link-{{ $type }} mb-3 min-w-full rounded py-2 text-lg sm:px-24"
               href="{{ $href }}"
