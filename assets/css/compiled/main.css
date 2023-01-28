@@ -1014,156 +1014,228 @@ video {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
-.link-amazon {
+/* amazon */
+
+.link-YW1hem9u {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
   background-color: #ff9900;
 }
 
-.link-apple {
+/* apple */
+
+.link-YXBwbGU {
   background-color: #333;
 }
 
-.link-codepen {
+/* codepen */
+
+.link-Y29kZXBlbg {
   background-color: #1e1f26;
 }
 
-.link-dev {
+/* dev */
+
+.link-ZGV2 {
   background-color: #0a0a0a;
 }
 
-.link-discord {
+/* discord */
+
+.link-ZGlzY29yZA {
   background-color: #7289da;
 }
 
-.link-dribbble {
+/* dribbble */
+
+.link-ZHJpYmJibGU {
   background-color: #ea4c89;
 }
 
-.link-facebook {
+/* facebook */
+
+.link-ZmFjZWJvb2s {
   background-color: #1877f2;
 }
 
-.link-flickr {
+/* flickr */
+
+.link-ZmxpY2ty {
   background-color: #ff0184;
 }
 
-.link-foursquare {
+/* foursquare */
+
+.link-Zm91cnNxdWFyZQ {
   background-color: #0732a2;
 }
 
-.link-github {
+/* github */
+
+.link-Z2l0aHVi {
   background-color: #333;
 }
 
-.link-gitlab {
+/* gitlab */
+
+.link-Z2l0bGFi {
   background-color: #554488;
 }
 
-.link-google {
+/* google */
+
+.link-Z29vZ2xl {
   background-color: #4285f4;
 }
 
-.link-instagram {
+/* instagram */
+
+.link-aW5zdGFncmFt {
   background-color: #c13584;
   background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
 }
 
-.link-keybase {
+/* keybase */
+
+.link-a2V5YmFzZQ {
   background-color: #33a0ff;
 }
 
-.link-kickstarter {
+/* kickstarter */
+
+.link-a2lja3N0YXJ0ZXI {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
   background-color: #06ce78;
 }
 
-.link-lastfm {
+/* lastfm */
+
+.link-bGFzdGZt {
   background-color: #d51007;
 }
 
-.link-linkedin {
+/* linkedin */
+
+.link-bGlua2VkaW4 {
   background-color: #0077b5;
 }
 
-.link-mastodon {
+/* mastodon */
+
+.link-bWFzdG9kb24 {
   background-color: #6364ff;
 }
 
-.link-medium {
+/* medium */
+
+.link-bWVkaXVt {
   background-color: #00ab6c;
 }
 
-.link-microsoft {
+/* microsoft */
+
+.link-bWljcm9zb2Z0 {
   background-color: #08a6f0;
 }
 
-.link-orcid {
+/* orcid */
+
+.link-b3JjaWQ {
   background-color: #a6ce39;
 }
 
-.link-patreon {
+/* patreon */
+
+.link-cGF0cmVvbg {
   background-color: #ff434d;
 }
 
-.link-pinterest {
+/* pinterest */
+
+.link-cGludGVyZXN0 {
   background-color: #e60023;
 }
 
-.link-reddit {
+/* reddit */
+
+.link-cmVkZGl0 {
   background-color: #ff4500;
 }
 
-.link-researchgate {
+/* researchgate */
+
+.link-cmVzZWFyY2hnYXRl {
   background-color: #40ba9c;
 }
 
-.link-slack {
+/* slack */
+
+.link-c2xhY2s {
   background-color: #4a154b;
 }
 
-.link-snapchat {
+/* snapchat */
+
+.link-c25hcGNoYXQ {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
   background-color: #fffc00;
 }
 
-.link-soundcloud {
+/* soundcloud */
+
+.link-c291bmRjbG91ZA {
   background-color: #ff8800;
   background: linear-gradient(120deg, #ff8800, #ff3300);
 }
 
-.link-steam {
+/* steam */
+
+.link-c3RlYW0 {
   background-color: #000;
 }
 
-.link-telegram {
+/* telegram */
+
+.link-dGVsZWdyYW0 {
   background-color: #25a3e1;
 }
 
-.link-tiktok {
+/* tiktok */
+
+.link-dGlrdG9r {
   background-color: #fe2d55;
 }
 
-.link-tumblr {
+/* tumblr */
+
+.link-dHVtYmxy {
   background-color: #001935;
 }
 
-.link-twitch {
+/* twitch */
+
+.link-dHdpdGNo {
   background-color: #9146ff;
 }
 
-.link-twitter {
+/* twitter */
+
+.link-dHdpdHRlcg {
   background-color: rgb(63, 136, 222);
 }
 
-.link-whatsapp {
+/* whatsapp */
+
+.link-d2hhdHNhcHA {
   background-color: #45d82c;
   background: linear-gradient(120deg, #12990b, #45d82c);
 }
 
-.link-youtube {
+/* youtube */
+
+.link-eW91dHViZQ {
   background-color: #ff0000;
 }
 
