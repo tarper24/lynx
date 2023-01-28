@@ -1,3 +1,3 @@
-module github.com/jpanther/lynx
+module github.com/tarper24/lynx
 
 go 1.17
