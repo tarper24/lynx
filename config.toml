@@ -39,6 +39,7 @@ disableKinds = ["taxonomy", "term"]
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
     # { reddit = "https://reddit.com/user/username" },
+    # { signal = "https://signal.me/#eu/invitelink" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
