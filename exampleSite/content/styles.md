@@ -32,6 +32,7 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link patreon >}}
 {{< link pinterest >}}
 {{< link reddit >}}
+{{< link signal >}}
 {{< link slack >}}
 {{< link snapchat >}}
 {{< link soundcloud >}}
