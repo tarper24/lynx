@@ -3,9 +3,9 @@
 {{ $i18nResult := i18n $i18nKey }}
 {{ $encode := and (ne $i18nResult "") (ne $i18nResult $i18nKey) }}
 
+{{ $result := $platform }}
 {{ if $encode }}
-{{ $encoded := base64Encode $platform | replaceRE "[^a-zA-Z0-9]" "" }}
-{{ return $encoded }}
-{{ else }}
-{{ return $platform }}
+  {{ $result = base64Encode $platform | replaceRE "[^a-zA-Z0-9]" "" }}
 {{ end }}
+
+{{ return $result }}
