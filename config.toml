@@ -27,6 +27,7 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
+    # { furaffinity = "https://www.furaffinity.net/user/username/" },
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
