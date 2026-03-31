@@ -2,15 +2,23 @@
 
 name = "lynx"
 license = "MIT"
-licenselink = "https://github.com/jpanther/lynx/blob/master/LICENSE"
+licenselink = "https://github.com/tarper24/lynx/blob/master/LICENSE"
 description = "A links page theme for Hugo built with Tailwind CSS."
 
-homepage = "https://github.com/jpanther/lynx/"
+homepage = "https://github.com/tarper24/lynx/"
 demosite = "https://jpanther.github.io/lynx/"
 
-tags = ["minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
+tags = [
+  "minimal",
+  "responsive",
+  "dark mode",
+  "dark",
+  "light",
+  "tailwind",
+  "personal",
+]
 features = ["dark mode", "emoji"]
 
 [author]
-  name = "James Panther"
-  homepage = "https://jamespanther.com/"
+name = "James Panther"
+homepage = "https://jamespanther.com/"
