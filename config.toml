@@ -41,6 +41,7 @@ links = [
   # { medium = "https://medium.com/username" },
   # { microsoft = "https://www.microsoft.com/" },
   # { patreon = "https://www.patreon.com/username" },
+  # { picarto = "https://picarto.tv/username" },
   # { pinterest = "https://pinterest.com/username" },
   # { reddit = "https://reddit.com/user/username" },
   # { signal = "https://signal.me/#eu/invitelink" },
